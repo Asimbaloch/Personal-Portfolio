@@ -6882,6 +6882,8 @@ input, select, textarea {
 					display: block;
 					width: 100%;
 					border-radius: 0;
+					height: 250px;
+					object-fit: cover;
 				}
 
 			.gallery.style2 article .caption {
